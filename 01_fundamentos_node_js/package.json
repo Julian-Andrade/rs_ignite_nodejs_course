@@ -1,0 +1,21 @@
+{
+  "name": "rs_ignite_nodejs_course",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julian-Andrade/rs_ignite_nodejs_course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Julian-Andrade/rs_ignite_nodejs_course/issues"
+  },
+  "homepage": "https://github.com/Julian-Andrade/rs_ignite_nodejs_course#readme"
+}
